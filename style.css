@@ -1,0 +1,25 @@
+:root{
+
+}
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Comic Sans MS",Arial,'Times New Roman', Times, serif,sans-serif;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+main{
+    margin: 0 0 35px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 30px;
+}
