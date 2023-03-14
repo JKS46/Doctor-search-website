@@ -35,7 +35,7 @@ nav ul{
 }
 .container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #1f2937;
     color: white;
 }
@@ -48,8 +48,8 @@ nav img{
     border-radius: 50%;
 }
 .container img{
-    width: 50vw;
-    height: 250px;
+    width: 30vw;
+    height: 350px;
 }
 .left{
     padding: 5px;
