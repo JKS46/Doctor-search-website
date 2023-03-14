@@ -1,1 +1,2 @@
-console.log('Hello World');
+const input = document.querySelector('#input');
+const search = document.querySelector("#search");
